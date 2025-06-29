@@ -1,0 +1,16 @@
+"UnlitGeneric"
+{
+    "$baseTexture"                                                  "vgui/replay/thumbnails/sword"
+    "$translucent"                                                  "1"
+    "$ignorez"                                                      "0"
+
+    "Proxies"
+    {
+        "AnimatedTexture"
+        {
+            "animatedtexturevar"                                    "$basetexture"
+            "animatedtextureframenumvar"                            "$frame"
+            "animatedtextureframerate"                              "30"
+        }
+    }
+}
